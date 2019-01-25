@@ -14,7 +14,7 @@ STEPS FOR RUNNINF ANY GENERAL DJANGO app
 - register the model in admin.py
 - migrate using commands
   'python manage.py makemigrations'
-  'python manage.py' migrate
+  'python manage.py migrate'
   'python manage.py createsuperuser'
 - run the app using 'python manage.py runserver'
 
