@@ -1,8 +1,8 @@
 """
 1. pip install django
 2. pip install djangorestframework
-3. start a django project by 'django-admin startproject demo'
-4. create an app inside it by 'python manage.py startapp webapp'
+3. start a django project by - django-admin startproject demo
+4. create an app inside it by - python manage.py startapp webapp
 
 
 STEPS FOR RUNNINF ANY GENERAL DJANGO app
